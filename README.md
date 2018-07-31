@@ -1,0 +1,2 @@
+# ps4-4.18-rc7-experimental
+KVM,AMDGPU,RADEON,NOUVEAU,VFIO,XHCI-ps4
